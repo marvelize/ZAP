@@ -1,4 +1,4 @@
-# ZAPASS Swift Style Guide
+# ZAP Swift Style Guide
 ![Swift](https://img.shields.io/badge/Swift-4.2-orange.svg)
 [![Creative Commons License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](http://creativecommons.org/licenses/by/4.0/)
 
